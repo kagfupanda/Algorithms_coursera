@@ -1,0 +1,6 @@
+/overview/bin
+/overview/.*
+/overview/src/*.zip
+.git
+.metadata
+
